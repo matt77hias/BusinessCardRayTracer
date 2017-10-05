@@ -26,3 +26,6 @@ The Business Card Ray Tracer is originally written by [Andrew Kensler](http://ww
 ```
 i G[]={279825,279825,304425,304425,333125,333125,396675,0,0};
 ```
+
+## Use
+1. `rt.exe > mm.ppm`
