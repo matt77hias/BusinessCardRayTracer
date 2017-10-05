@@ -22,7 +22,7 @@ The Business Card Ray Tracer is originally written by [Andrew Kensler](http://ww
 1   1   1 1   1   1 = 2^18 + 2^14 + 2^10 + 2^8 + 2^4 + 2^0              = 279825
 ```
 
-3. Add the decimal values to the `G` array describing the world/scene in reverse order.
+3. Add the decimal values in reverse order to the `G` array describing the world/scene.
 ```
 i G[]={279825,279825,304425,304425,333125,333125,396675,0,0};
 ```
