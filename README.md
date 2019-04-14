@@ -2,7 +2,7 @@
 
 ## About
 
-The Business Card Ray Tracer is originally written by [Andrew Kensler](http://www.cs.utah.edu/~aek/code/card.cpp) and reverse engineered by [Fabien Sanglard](http://fabiensanglard.net/rayTracing_back_of_business_card/). I modified the code to include my own initials `MM` instead of `aek` (Andrew Kensler) or `Fab` (Fabien Sanglard), and changed the red tile color to a green tile color. This unfortunately does not result in an ["elite"](https://nl.wikipedia.org/wiki/Leet) size of 1337 characters, but rather 1360 or 1350 (if you use a basic green color).
+The Business Card Ray Tracer is originally written by [Andrew Kensler](http://www.cs.utah.edu/~aek/code/card.cpp) and reverse engineered by [Fabien Sanglard](http://fabiensanglard.net/rayTracing_back_of_business_card/). I modified the code to include my own initials `MM` (Matthias Moulin) instead of `aek` (Andrew Kensler) or `Fab` (Fabien Sanglard), and changed the red tile color to a green tile color. This unfortunately does not result in an ["elite"](https://nl.wikipedia.org/wiki/Leet) size of 1337 characters, but rather 1360 or 1350 (if you use a basic green color).
 
 <p align="center"><img src="res/mm.png" ></p>
 
